@@ -1,6 +1,9 @@
 # flutter_application_1
 
-A new Flutter project.
+My first flutter UI design, Hope you like it!
+
+A screenShot:
+![alt text](https://github.com/PriyanshuYakub/FlutterUI_mark1/blob/main/image.png)
 
 ## Getting Started
 
